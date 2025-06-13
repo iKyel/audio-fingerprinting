@@ -1,0 +1,29 @@
+# Ignore audio files
+audio/
+*.mp3
+*.wav
+*.flac
+*.aac
+*.ogg
+*.m4a
+*.wma
+
+# Ignore other common audio formats
+*.aiff
+*.au
+*.ra
+*.3gp
+*.amr
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
